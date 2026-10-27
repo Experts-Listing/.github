@@ -8,6 +8,7 @@
 
 ---
 
+
 ## What this is
 
 Expert Listing is a property platform: browse listings, and find verified professionals near you. This organisation holds the application services **and** the infrastructure that ships them, kept in separate repositories on purpose. Apps build and prove their own images; one infrastructure repo decides where those images run.
